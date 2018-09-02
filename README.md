@@ -1,6 +1,9 @@
 # cakes-excel-automation
 An add-in for Excel to automate repetitive/cumbersome tasks
 
+## New in version 3.0
+Updated look and feel to Cover, Divider and Content worksheets.
+
 ## Installation
 1. Download "Cakes by Duncan Lindsey v#.#.xlam"
 2. Save the file to C:\Users\[your username]\AppData\Roaming\Microsoft\AddIns\ - note: the "AppData" is a hidden folder by default and may not be visible. To find out how to view hidden folders, go to https://support.microsoft.com/en-gb/help/14201/windows-show-hidden-files
@@ -11,9 +14,6 @@ An add-in for Excel to automate repetitive/cumbersome tasks
 The add-in provides all of its functionality through shortcuts. These shortcuts can be turned on and off and shouldn't override any standard Excel shortcut. 
 Turn on shortcuts with **Ctrl + Q**, and off with **Ctrl + Shift + Q**.
 Once on, append the following commands to **Ctrl + Shift...** to run the desired process.
-
-## New in version 3.0
-Updated look and feel to Cover, Divider and Content worksheets.
 
 **Ctrl + Shift + ...** | **Macro**     | **Description**
 -----------------------|---------------|---------------------------
