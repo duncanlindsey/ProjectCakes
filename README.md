@@ -12,6 +12,9 @@ The add-in provides all of its functionality through shortcuts. These shortcuts 
 Turn on shortcuts with **Ctrl + Q**, and off with **Ctrl + Shift + Q**.
 Once on, append the following commands to **Ctrl + Shift...** to run the desired process.
 
+## New in version 3.0
+Updated look and feel to Cover, Divider and Content worksheets.
+
 **Ctrl + Shift + ...** | **Macro**     | **Description**
 -----------------------|---------------|---------------------------
 HOME | Jump To Home | Jumps to the first sheet in the workbook
